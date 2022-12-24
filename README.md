@@ -23,8 +23,7 @@
 <h1><i>2-Architecture de l'activité pratique :</i><h1>
 <img src="https://user-images.githubusercontent.com/48455549/206859150-63e5c806-86a2-4937-8791-9a7ce2464316.PNG">
 <h1><i>3-Simulation :</i><h1>
-<img src="https://user-images.githubusercontent.com/74361043/207727000-7a8f4d8d-0b8b-4f72-adfa-ff8e0e16793d.png"/>
-<img src="https://user-images.githubusercontent.com/74361043/207727399-0b08a790-fe3f-40a3-acf3-f7f65b4db0e4.png"/>
+![image](https://user-images.githubusercontent.com/81412369/209435305-4bf2574f-e84f-42fa-bfda-bf6ea3de53d4.png)<img src="https://user-images.githubusercontent.com/74361043/207727399-0b08a790-fe3f-40a3-acf3-f7f65b4db0e4.png"/>
 <img src="https://user-images.githubusercontent.com/74361043/207728133-6f20942b-f7f5-48ef-bf58-f58995cde985.png">
 <img src="https://user-images.githubusercontent.com/74361043/207728477-ec4974dc-f70d-406d-94b9-b12ced726991.png">
   <ul>Eureka Service</ul>
