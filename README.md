@@ -24,12 +24,8 @@
 <img src="https://user-images.githubusercontent.com/48455549/206859150-63e5c806-86a2-4937-8791-9a7ce2464316.PNG">
 <h1><i>3-Simulation :</i><h1>
  <img src="https://user-images.githubusercontent.com/81412369/209435781-072641e5-b151-4b40-ac3e-44db3b5c30f2.png">
+ <img src="https://user-images.githubusercontent.com/81412369/209435997-400c182b-f917-4570-a057-90279f130ae7.png"/>
  <img src="hhttps://user-images.githubusercontent.com/81412369/209435859-97e2010c-6181-4af0-9b46-7bb04b254d9c.png"/>
-<img src="https://user-images.githubusercontent.com/81412369/209435893-df7c3ad5-45a8-48f0-9a3c-13c3b3eedb3a.png"/>
-
-<img src="https://user-images.githubusercontent.com/74361043/207727399-0b08a790-fe3f-40a3-acf3-f7f65b4db0e4.png"/>
-<img src="https://user-images.githubusercontent.com/74361043/207728133-6f20942b-f7f5-48ef-bf58-f58995cde985.png">
-<img src="https://user-images.githubusercontent.com/74361043/207728477-ec4974dc-f70d-406d-94b9-b12ced726991.png">
   <ul>Eureka Service</ul>
   <img src="https://user-images.githubusercontent.com/74361043/207845098-8d43032c-d999-4269-87d7-21550dcf2a16.png">
 <h1><i>4-Partie Front Angular :</i><h1>
