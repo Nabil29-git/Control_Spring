@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f71718-27a8-445a-bbed-4e1035aded24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ecom-web-app" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-web-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../billing-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/billing-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../billing-service/billing-service.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +59,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/J2EE_5ANNEE_PROJECTS/Activité pratique N° 3  Architectures Micro-services avec Spring Cloud Part 1 + Part 2/inventory-service&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;a0a888983c63ac9314760c19ec388e98&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="RunManager">
     <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="customer-service" />
@@ -125,6 +115,7 @@
       <workItem from="1671039122729" duration="9675000" />
       <workItem from="1671055719393" duration="1369000" />
       <workItem from="1671102036039" duration="637000" />
+      <workItem from="1671869673305" duration="2000" />
     </task>
     <servers />
   </component>

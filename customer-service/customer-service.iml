@@ -14,7 +14,9 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
-        <datasource-mapping />
+        <datasource-mapping>
+          <factory-entry name="customer-service" />
+        </datasource-mapping>
         <naming-strategy-map />
       </configuration>
     </facet>
@@ -190,6 +192,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.23" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.23" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.9.0" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains:annotations:23.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:24.0.0" level="project" />
   </component>
 </module>

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23040843-5e20-4997-8bbe-eee91bcaadfb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ecom-web-app" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-web-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +50,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/J2EE_5ANNEE_PROJECTS/Activité pratique N° 3  Architectures Micro-services avec Spring Cloud Part 1 + Part 2/billing-service&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;ece59f6b43bdfe4a305694f701901a3d&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -110,6 +105,7 @@
       <workItem from="1671039770304" duration="8270000" />
       <workItem from="1671055671285" duration="1355000" />
       <workItem from="1671101918975" duration="1064000" />
+      <workItem from="1671869340482" duration="256000" />
     </task>
     <servers />
   </component>
