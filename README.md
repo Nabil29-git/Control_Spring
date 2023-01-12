@@ -32,7 +32,7 @@
   <img src="https://user-images.githubusercontent.com/74361043/207845098-8d43032c-d999-4269-87d7-21550dcf2a16.png">
 <h1><i>4-Partie Front Angular :</i><h1>
 <ul>Liste des produits</ul>
-<img src="https://user-images.githubusercontent.com/74361043/207729026-68fa772c-384a-4246-bdb4-5f1573f86feb.png">
+<img src="https://user-images.githubusercontent.com/81412369/212188904-9f7f1c4b-834f-4ef9-9d17-324a321b786d.PNG">
 <ul>Liste des clients</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207729271-aa8da8c7-f7a3-4bd0-9817-348e9a474264.png">
 <ul>Liste des factures d'un client</ul>
@@ -44,7 +44,7 @@
 <ul>authentication with client secret</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207850425-4f730ad4-d065-4270-ad92-22fb7fa6f5cb.png">
 <ul>authentication with password</ul>
-<img src="https://user-images.githubusercontent.com/74361043/207846865-f700b1d1-fc8a-479c-96a5-87a4ac448ab9.png">
+<img src="https://user-images.githubusercontent.com/81412369/212190954-c6135565-04eb-43d6-aa07-9cca2032b032.PNG">
 <ul>authentication with refresh token</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207848772-e6a144d0-7c3d-48db-a96a-9769d601ed89.png">
 
