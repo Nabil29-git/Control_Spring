@@ -38,7 +38,6 @@
 <ul>Liste des factures d'un client</ul>
 <img src="https://user-images.githubusercontent.com/81412369/212298140-e48123ea-85a4-4435-8dbc-c2dc13373c72.PNG">
 <h1><i>5-Keycloak :</i><h1>
-<img src="https://user-images.githubusercontent.com/74361043/207732736-a905ba2c-04db-4146-a932-7fc7c31f55ae.png">
 <ul>authentication with client secret</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207850425-4f730ad4-d065-4270-ad92-22fb7fa6f5cb.png">
 <ul>authentication with password</ul>
