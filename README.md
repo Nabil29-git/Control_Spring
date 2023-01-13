@@ -34,9 +34,9 @@
 <ul>Liste des produits</ul>
 <img src="https://user-images.githubusercontent.com/81412369/212188904-9f7f1c4b-834f-4ef9-9d17-324a321b786d.PNG">
 <ul>Liste des clients</ul>
-<img src="https://user-images.githubusercontent.com/74361043/207729271-aa8da8c7-f7a3-4bd0-9817-348e9a474264.png">
+<img src="https://user-images.githubusercontent.com/81412369/212298055-3d017af6-ec25-4479-aa38-f34d80925a7c.PNG">
 <ul>Liste des factures d'un client</ul>
-<img src="https://user-images.githubusercontent.com/74361043/207729424-62d6c16f-f472-4761-b8a3-f1ca9b540eb6.png">
+<img src="https://user-images.githubusercontent.com/81412369/212298140-e48123ea-85a4-4435-8dbc-c2dc13373c72.PNG">
 <ul>Details d'une facture d'un client</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207732271-9d842f44-6c78-4f27-bfe6-716928e6966e.png">
 <h1><i>5-Keycloak :</i><h1>
